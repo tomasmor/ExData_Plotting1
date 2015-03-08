@@ -1,0 +1,8 @@
+---
+title: "Readme.md"
+author: "tomasmor"
+date: "8 Mar 2015"
+output: html_document
+---
+In the "plots" folder you may find plots and scripts for generating this plots.
+In the "script" folder you may find script for downloading the data from url.
